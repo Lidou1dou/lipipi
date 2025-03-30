@@ -19,6 +19,26 @@
       "searchable": 0
     },
     {
+            "key": "py_jianpian.py",
+            "name": "荐片|影视",
+            "type": 3,
+            "api": "./py/py_jianpian.py",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0           
+    },
+    {
+            "key": "LREEOK.py",
+            "name": "官方|影视",
+            "type": 3,
+            "api": "./py/LREEOK.py",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0            
+    },
+    {
       "key": "移动云盘",
       "name": "移动｜急速",
       "type": 3,
