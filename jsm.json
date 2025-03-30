@@ -226,7 +226,17 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0
-    }
+    },
+    {
+            "key": "哇哇APP.py",
+            "name": "哇哇|影视",
+            "type": 3,
+            "api": "./py/哇哇APP.py",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0  
+      },
   ],
   "parses": [
     {
