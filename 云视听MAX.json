@@ -19,6 +19,76 @@
       "searchable": 0
     },
     {
+            "key": "直播平台.py",
+            "name": "平台|直播",
+            "type": 3,
+            "api": "./py/直播平台.py",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0 
+        },
+        {
+            "key": "魔方影视APP.py",
+            "name": "魔方|影视",
+            "type": 3,
+            "api": "./py/魔方影视APP.py",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0
+
+            
+        },
+        {
+            "key": "皮皮虾APP.py,
+            "name": "皮皮|影视",
+            "type": 3,
+            "api": "./py/皮皮虾APP.py",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0
+
+            
+        },
+        {
+            "key": "云端APP.py",
+            "name": "云端|影视",
+            "type": 3,
+            "api": "./py/云端APP.py",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0
+
+            
+        },
+        {
+            "key": "哇哇APP.py",
+            "name": "哇哇|影视",
+            "type": 3,
+            "api": "./py/哇哇APP.py",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0
+
+            
+        },
+        {
+            "key": "红果网页.py",
+            "name": "红果|影视",
+            "type": 3,
+            "api": "./py/红果网页.py",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0
+
+            
+        },
+        {
             "key": "py_jianpian.py",
             "name": "荐片|影视",
             "type": 3,
@@ -26,9 +96,11 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
-            "changeable": 0           
-    },
-    {
+            "changeable": 0
+
+            
+        },
+        {
             "key": "LREEOK.py",
             "name": "官方|影视",
             "type": 3,
@@ -36,8 +108,112 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
-            "changeable": 0            
-    },
+            "changeable": 0
+
+            
+        },
+        {
+            "key": "若惜追剧APP.py",
+            "name": "若惜|影视",
+            "type": 3,
+            "api": "./py/若惜追剧APP.py",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0
+
+            
+        },
+        {
+            "key": "py_剧多短剧.py",
+            "name": "短剧|影视",
+            "type": 3,
+            "api": "./py/py_剧多短剧.py",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0
+        },
+        {
+            "key": "美帕APP.py",
+            "name": "美帕|影视",
+            "type": 3,
+            "api": "./py/美帕APP.py",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0
+        },
+        {
+            "key": "悠悠APP.py",
+            "name": "悠悠|影视",
+            "type": 3,
+            "api": "./py/悠悠APP.py",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0
+        },
+        {
+            "key": "火车太顺APP.py",
+            "name": "太顺|影视",
+            "type": 3,
+            "api": "./py/火车太顺APP.py",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0
+        },
+        {
+            "key": "三号动漫APP.py",
+            "name": "动漫|影视",
+            "type": 3,
+            "api": "./py/三号动漫APP.py",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0
+        },
+        {
+            "key": "爱瓜TVAPP.py",
+            "name": "爱瓜|影视",
+            "type": 3,
+            "api": "./py/爱瓜TVAPP.py",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0
+        },
+    		{
+            "key": "py_hitv.py",
+            "name": "嗷视|影视",
+            "type": 3,
+            "api": "./py/py_hitv.py",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0
+        },
+        {
+            "key": "py_mp.py",
+            "name": "mp|影视",
+            "type": 3,
+            "api": "./py/py_mp.py",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0
+        },
+        {
+            "key": "光速APP.py",
+            "name": "光视|影视",
+            "type": 3,
+            "api": "./py/光速APP.py",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0
+        },
     {
       "key": "移动云盘",
       "name": "移动｜急速",
