@@ -29,10 +29,10 @@
             "changeable": 0 
   },
   {
-            "key": "魔方影视APP.py",
-            "name": "魔方|影视",
+            "key": "金牌.py",
+            "name": "金牌|影视",
             "type": 3,
-            "api": "./py/魔方影视APP.py",
+            "api": "./py/金牌.py",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
@@ -41,10 +41,10 @@
             
    },
    {
-            "key": "云端APP.py",
-            "name": "云端|影视",
+            "key": "光速.py",
+            "name": "光速|影视",
             "type": 3,
-            "api": "./py/云端APP.py",
+            "api": "./py/光速.py",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
